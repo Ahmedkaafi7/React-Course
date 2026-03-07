@@ -1,5 +1,6 @@
 import UserCard from "./UserCard";
 import { FullName } from "./UserCard";
+import Blog2 from "./Blog2";
 
 
 function App() {
@@ -7,8 +8,10 @@ function App() {
   return (
     <> 
     
-    <UserCard />
-    <  FullName />
+    {/* <UserCard />
+    <  FullName /> */}
+
+    <Blog2 />
      </>
   )
     
