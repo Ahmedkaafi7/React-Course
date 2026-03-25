@@ -4,6 +4,7 @@ import Blog2 from "./Blog2";
 import PropsEx3 from "./PropsEx3";
 import Toggle from "./ToggleEx4";
 import ShoppingCart from "./ShoppingCart";
+import UseffEx6 from "./UseffEx6";
 
 
 function App() {
@@ -37,7 +38,10 @@ function App() {
 
     {/* Exercise 6 */}
     < ShoppingCart />
+
+    < UseffEx6 />
      </>
+    
   )
     
   
