@@ -6,6 +6,8 @@ import Toggle from "./ToggleEx4";
 import ShoppingCart from "./ShoppingCart";
 import UseffEx6 from "./UseffEx6";
 import MouseTrack from "./MouseTrack7";
+import CutdownTimer from "./CutdownTimer8";   
+
 
 
 function App() {
@@ -35,13 +37,14 @@ function App() {
          email =  "warsame@gmail.com"/>
     
     {/* Exrcise 5 */}
-    < Toggle /> */}
+    < Toggle /> 
 
     {/* Exercise 6 */}
     < ShoppingCart />
 
     < UseffEx6 />
     < MouseTrack/>
+    < CutdownTimer />
      </>
     
   )
