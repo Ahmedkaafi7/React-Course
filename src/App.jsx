@@ -11,6 +11,7 @@ import FetchData from "./FetchApi9";
 import UserList from "./UserList10";
 import LogginForm from "./LoginForm11";
 import Counter from "./Count12";  
+import DoubleCounterWithUseReduce from "./DoubleCounterWithUseReduce13";
 
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
     < UserList />
     < LogginForm />
      <Counter />
+     <DoubleCounterWithUseReduce />
      </>
     
   )
