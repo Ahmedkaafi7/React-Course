@@ -10,6 +10,7 @@ import CutdownTimer from "./CutdownTimer8";
 import FetchData from "./FetchApi9";    
 import UserList from "./UserList10";
 import LogginForm from "./LoginForm11";
+import Counter from "./Count12";  
 
 
 function App() {
@@ -50,7 +51,7 @@ function App() {
     < FetchData />
     < UserList />
     < LogginForm />
-
+     <Counter />
      </>
     
   )
