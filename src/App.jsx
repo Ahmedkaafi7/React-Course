@@ -12,6 +12,7 @@ import UserList from "./UserList10";
 import LogginForm from "./LoginForm11";
 import Counter from "./Count12";  
 import DoubleCounterWithUseReduce from "./DoubleCounterWithUseReduce13";
+import MultiStepForm from "./multiStepForm14";
 
 
 function App() {
@@ -54,6 +55,7 @@ function App() {
     < LogginForm />
      <Counter />
      <DoubleCounterWithUseReduce />
+      <MultiStepForm />
      </>
     
   )
